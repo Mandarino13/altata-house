@@ -1,0 +1,35 @@
+entries:
+- date: '2026-06-02'
+  actor: Gerardo
+  subcategory: savings
+  value: 50.0
+  notes: Initial savings deposit
+- date: '2026-06-02'
+  actor: Kristina
+  subcategory: savings
+  value: 50.0
+  notes: Matched initial savings
+- date: '2026-06-03'
+  actor: Gerardo
+  beneficiary: Kristina
+  subcategory: expenses
+  value: 45000.0
+  notes: Mac credit
+- date: '2026-06-03'
+  actor: Kristina
+  beneficiary: Gerardo
+  subcategory: expenses
+  value: 4000.0
+  notes: Football shirt and shoes
+- date: '2026-06-03'
+  actor: Kristina
+  beneficiary: Gerardo
+  subcategory: expenses
+  value: 2999.0
+  notes: Table
+- date: '2026-06-03'
+  actor: Gerardo
+  beneficiary: Both
+  subcategory: expenses
+  value: 1000.0
+  notes: test dinner

@@ -1,0 +1,16 @@
+entries:
+- date: '2026-06-02'
+  actor: Gerardo
+  subcategory: dishes
+  value: 1.0
+  notes: Washed dinner plates
+- date: '2026-06-02'
+  actor: Kristina
+  subcategory: laundry
+  value: 1.0
+  notes: Washed and folded sheets
+- date: '2026-06-02'
+  actor: Kristina
+  subcategory: dishes
+  value: 1.0
+  notes: Cleaned breakfast cups

@@ -1,0 +1,7 @@
+Date,Actor,Beneficiary,Subcategory,Value,Notes
+2026-06-02,Gerardo,Both,savings,50.0,Initial savings deposit
+2026-06-02,Kristina,Both,savings,50.0,Matched initial savings
+2026-06-03,Gerardo,Kristina,expenses,45000.0,Mac credit
+2026-06-03,Kristina,Gerardo,expenses,4000.0,Football shirt and shoes
+2026-06-03,Kristina,Gerardo,expenses,2999.0,Table
+2026-06-03,Gerardo,Both,expenses,1000.0,test dinner
