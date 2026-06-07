@@ -33,3 +33,9 @@ entries:
   subcategory: expenses
   value: 1000.0
   notes: test dinner
+- date: '2026-06-07'
+  actor: Gerardo
+  beneficiary: Gerardo
+  subcategory: expenses
+  value: 1700.0
+  notes: Breakfast with parents
