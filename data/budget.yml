@@ -39,3 +39,9 @@ entries:
   subcategory: expenses
   value: 1700.0
   notes: Breakfast with parents
+- date: '2026-08-04'
+  actor: Kristina
+  beneficiary: Gerardo
+  subcategory: expenses
+  value: 200.0
+  notes: Visa fee lent by Kristina
