@@ -45,3 +45,9 @@ entries:
   subcategory: expenses
   value: 200.0
   notes: Visa fee lent by Kristina
+- date: '2026-08-13'
+  actor: Gerardo
+  beneficiary: Both
+  subcategory: expenses
+  value: 8650.0
+  notes: Muji
