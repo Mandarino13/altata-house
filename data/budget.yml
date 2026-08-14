@@ -69,3 +69,9 @@ entries:
   subcategory: expenses
   value: 1175.98
   notes: Beam jacket (11,000 JPY)
+- date: '2026-08-14'
+  actor: Kristina
+  beneficiary: Gerardo
+  subcategory: expenses
+  value: 6650.0
+  notes: Liverpool shirt
