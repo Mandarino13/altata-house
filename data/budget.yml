@@ -75,3 +75,9 @@ entries:
   subcategory: expenses
   value: 6650.0
   notes: Liverpool shirt
+- date: '2026-08-14'
+  actor: Gerardo
+  beneficiary: Both
+  subcategory: expenses
+  value: 1244.08
+  notes: Cameras (11,637 JPY)
