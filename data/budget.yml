@@ -51,3 +51,9 @@ entries:
   subcategory: expenses
   value: 8650.0
   notes: Muji
+- date: '2026-08-14'
+  actor: Gerardo
+  beneficiary: Gerardo
+  subcategory: expenses
+  value: 2031.23
+  notes: Japan shirt for brother William (19,000 JPY)
