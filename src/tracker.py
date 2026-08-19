@@ -299,7 +299,9 @@ def get_text_summary(category):
             summary_lines.append("\n**Who benefits from the spendings:**")
             summary_lines.append(f"  - 👤 **Gerardo**'s benefit from Kristina: {fmt_usd(k_for_g)}")
             summary_lines.append(f"  - 👤 **Kristina**'s benefit from Gerardo: {fmt_usd(g_for_k)}")
-            summary_lines.append(f"  - 👥 Shared (Both): Gerardo {fmt_usd(g_for_both)} | Kristina {fmt_usd(k_for_both)}")
+            if g_for_both > 0 or k_for_both > 0:
+                summary_lines.append(f"  - 👥 **Shared (Both):** paid by Gerardo {fmt_usd(g_for_both)} | paid by Kristina {fmt_usd(k_for_both)}")
+                summary_lines.append(f"    ↳ 50/50 split → Gerardo's share {fmt_usd(g_for_both/2)} | Kristina's share {fmt_usd(k_for_both/2)}")
 
             summary_lines.append("\n⚖️ **Settlement Balance (USD):**")
             if abs(g_owes - k_owes) < 0.01:
