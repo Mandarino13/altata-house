@@ -2,82 +2,118 @@ entries:
 - date: '2026-06-02'
   actor: Gerardo
   subcategory: savings
-  value: 50.0
   notes: Initial savings deposit
+  original_amount: 50.0
+  currency: MXN
+  amount_usd: 2.93
 - date: '2026-06-02'
   actor: Kristina
   subcategory: savings
-  value: 50.0
   notes: Matched initial savings
+  original_amount: 50.0
+  currency: MXN
+  amount_usd: 2.93
 - date: '2026-06-03'
   actor: Gerardo
   beneficiary: Kristina
   subcategory: expenses
-  value: 45000.0
   notes: Mac credit
+  original_amount: 45000.0
+  currency: MXN
+  amount_usd: 2637.65
 - date: '2026-06-03'
   actor: Kristina
   beneficiary: Gerardo
   subcategory: expenses
-  value: 4000.0
   notes: Football shirt and shoes
+  original_amount: 4000.0
+  currency: MXN
+  amount_usd: 234.46
 - date: '2026-06-03'
   actor: Kristina
   beneficiary: Gerardo
   subcategory: expenses
-  value: 2999.0
   notes: Table
+  original_amount: 2999.0
+  currency: MXN
+  amount_usd: 175.78
 - date: '2026-06-03'
   actor: Gerardo
   beneficiary: Both
   subcategory: expenses
-  value: 1000.0
   notes: test dinner
+  original_amount: 1000.0
+  currency: MXN
+  amount_usd: 58.61
 - date: '2026-06-07'
   actor: Gerardo
   beneficiary: Gerardo
   subcategory: expenses
-  value: 1700.0
   notes: Breakfast with parents
+  original_amount: 1700.0
+  currency: MXN
+  amount_usd: 99.64
 - date: '2026-08-04'
   actor: Kristina
   beneficiary: Gerardo
   subcategory: expenses
-  value: 200.0
   notes: Visa fee lent by Kristina
+  original_amount: 200.0
+  currency: USD
+  amount_usd: 200.0
 - date: '2026-08-13'
   actor: Gerardo
   beneficiary: Both
   subcategory: expenses
-  value: 8650.0
   notes: Muji
+  original_amount: 8650.0
+  currency: MXN
+  amount_usd: 507.01
 - date: '2026-08-14'
   actor: Gerardo
   beneficiary: Gerardo
   subcategory: expenses
-  value: 2031.23
   notes: Japan shirt for brother William (19,000 JPY)
+  original_amount: 19000.0
+  currency: JPY
+  amount_usd: 119.05
 - date: '2026-08-14'
   actor: Kristina
   beneficiary: Gerardo
   subcategory: expenses
-  value: 1175.98
   notes: tshirts for Gerardo (11,000 JPY)
+  original_amount: 11000.0
+  currency: JPY
+  amount_usd: 68.93
 - date: '2026-08-14'
   actor: Kristina
   beneficiary: Gerardo
   subcategory: expenses
-  value: 1175.98
   notes: Beam jacket (11,000 JPY)
+  original_amount: 11000.0
+  currency: JPY
+  amount_usd: 68.93
 - date: '2026-08-14'
   actor: Kristina
   beneficiary: Gerardo
   subcategory: expenses
-  value: 6650.0
   notes: Liverpool shirt
+  original_amount: 6650.0
+  currency: JPY
+  amount_usd: 41.67
 - date: '2026-08-14'
   actor: Gerardo
   beneficiary: Both
   subcategory: expenses
-  value: 1244.08
   notes: Cameras (11,637 JPY)
+  original_amount: 11637.0
+  currency: JPY
+  amount_usd: 72.92
+- date: '2026-08-14'
+  actor: Kristina
+  beneficiary: Gerardo
+  subcategory: expenses
+  notes: Yen purchase (22,000 JPY)
+  original_amount: 22000.0
+  currency: JPY
+  amount_usd: 137.85

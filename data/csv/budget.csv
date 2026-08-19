@@ -1,15 +1,16 @@
-Date,Actor,Beneficiary,Subcategory,Value,Notes
-2026-06-02,Gerardo,Both,savings,50.0,Initial savings deposit
-2026-06-02,Kristina,Both,savings,50.0,Matched initial savings
-2026-06-03,Gerardo,Kristina,expenses,45000.0,Mac credit
-2026-06-03,Kristina,Gerardo,expenses,4000.0,Football shirt and shoes
-2026-06-03,Kristina,Gerardo,expenses,2999.0,Table
-2026-06-03,Gerardo,Both,expenses,1000.0,test dinner
-2026-06-07,Gerardo,Gerardo,expenses,1700.0,Breakfast with parents
-2026-08-04,Kristina,Gerardo,expenses,200.0,Visa fee lent by Kristina
-2026-08-13,Gerardo,Both,expenses,8650.0,Muji
-2026-08-14,Gerardo,Gerardo,expenses,2031.23,"Japan shirt for brother William (19,000 JPY)"
-2026-08-14,Kristina,Gerardo,expenses,1175.98,"tshirts for Gerardo (11,000 JPY)"
-2026-08-14,Kristina,Gerardo,expenses,1175.98,"Beam jacket (11,000 JPY)"
-2026-08-14,Kristina,Gerardo,expenses,6650.0,Liverpool shirt
-2026-08-14,Gerardo,Both,expenses,1244.08,"Cameras (11,637 JPY)"
+Date,Actor,Beneficiary,Subcategory,Original Amount,Currency,Amount (USD),Notes
+2026-06-02,Gerardo,Both,savings,50.0,MXN,2.93,Initial savings deposit
+2026-06-02,Kristina,Both,savings,50.0,MXN,2.93,Matched initial savings
+2026-06-03,Gerardo,Kristina,expenses,45000.0,MXN,2637.65,Mac credit
+2026-06-03,Kristina,Gerardo,expenses,4000.0,MXN,234.46,Football shirt and shoes
+2026-06-03,Kristina,Gerardo,expenses,2999.0,MXN,175.78,Table
+2026-06-03,Gerardo,Both,expenses,1000.0,MXN,58.61,test dinner
+2026-06-07,Gerardo,Gerardo,expenses,1700.0,MXN,99.64,Breakfast with parents
+2026-08-04,Kristina,Gerardo,expenses,200.0,USD,200.0,Visa fee lent by Kristina
+2026-08-13,Gerardo,Both,expenses,8650.0,MXN,507.01,Muji
+2026-08-14,Gerardo,Gerardo,expenses,19000.0,JPY,119.05,"Japan shirt for brother William (19,000 JPY)"
+2026-08-14,Kristina,Gerardo,expenses,11000.0,JPY,68.93,"tshirts for Gerardo (11,000 JPY)"
+2026-08-14,Kristina,Gerardo,expenses,11000.0,JPY,68.93,"Beam jacket (11,000 JPY)"
+2026-08-14,Kristina,Gerardo,expenses,6650.0,JPY,41.67,Liverpool shirt
+2026-08-14,Gerardo,Both,expenses,11637.0,JPY,72.92,"Cameras (11,637 JPY)"
+2026-08-14,Kristina,Gerardo,expenses,22000.0,JPY,137.85,"Yen purchase (22,000 JPY)"
