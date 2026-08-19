@@ -67,8 +67,8 @@ entries:
   subcategory: expenses
   notes: Muji
   original_amount: 8650.0
-  currency: MXN
-  amount_usd: 507.01
+  currency: JPY
+  amount_usd: 54.2
 - date: '2026-08-14'
   actor: Gerardo
   beneficiary: Gerardo
