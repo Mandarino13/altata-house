@@ -1,0 +1,36 @@
+items:
+- id: v1
+  type: video
+  title: I built the ultimate Claude design skill for websites (ScrollCraft)
+  url: https://youtu.be/QUI6Ug4cHnE
+  tags:
+  - claude
+  - web design
+  - scroll animation
+  - ai skill
+  - websites
+  - key.ai
+  value: high
+  summary: 'ScrollCraft: free skill for Claude that builds interactive scroll-driven
+    landing pages. Interview process, key.ai for AI assets, verification pass. Nate
+    Herrera''s channel.'
+  saved_at: '2026-08-29'
+- id: a1
+  type: article
+  title: I turned Obsidian into a full project manager by adding one folder to my
+    vault
+  url: https://www.xda-developers.com/turned-obsidian-into-full-project-manager-add-one-folder-to-vault/
+  tags:
+  - obsidian
+  - claude-code
+  - productivity
+  - project-management
+  - workflow
+  - ai-agent
+  value: high
+  summary: Nolen Jonker turned Obsidian into a self-running project manager by adding
+    a single /index/ folder with SKILL.md + config.md + 5 markdown dashboards (active-projects,
+    stalled, this-week, by-area, orphans). Claude Code crawls the vault, regenerates
+    dashboards on demand, catches filename collisions & date ambiguity. No plugins,
+    no query syntax, fully portable.
+  saved_at: '2026-08-29'
